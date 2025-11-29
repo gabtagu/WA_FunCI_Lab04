@@ -1,5 +1,4 @@
 name: GCP Deploy
-
 on: push
 jobs:
   lint:
